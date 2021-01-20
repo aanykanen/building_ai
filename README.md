@@ -8,7 +8,7 @@ This project idea was crafted for the Building AI course final assignment.
 
 ## Summary
 
-Backing track generator allows musicians to produce backing tracks from their favorite songs. Backing track generator takes a song in mp3 or wav format as input and generates a new version of the song without the sounds from selected instrument. With the help of backing track generator musicians can effectively practise songs or produce new arrangements (or solos!) for the songs.
+Backing track generator allows musicians to produce backing tracks from their favorite songs. Backing track generator takes a song in mp3 or wav format as input and generates a new version of the song without the sounds from selected instrument.
 
 
 ## Background
